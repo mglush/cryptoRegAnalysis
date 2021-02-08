@@ -1,11 +1,11 @@
 # Cryptocurrency Field Statistical Analysis
 
 ## Table of Contents
-* [List of Crypto Data in Our SQLite Database]()
-* [Contents of Each Table in SQLite Database]()
-* [Goals of the Project]()
-* [Technologies Used]()
-* [Sources]()
+* [List of Crypto Data in Our SQLite Database](https://github.com/mglush/cryptoRegAnalysis/blob/main/README.md#sqlite-database-containing)
+* [Contents of Each Table in SQLite Database](https://github.com/mglush/cryptoRegAnalysis/blob/main/README.md#for-every-given-ticker-we-collected-the-following-info)
+* [Goals of the Project](https://github.com/mglush/cryptoRegAnalysis/blob/main/README.md#goals)
+* [Technologies Used](https://github.com/mglush/cryptoRegAnalysis/blob/main/README.md#technologies-used-so-far)
+* [Sources](https://github.com/mglush/cryptoRegAnalysis/blob/main/README.md#sources)
 
 ### SQLite database containing: 
 * Total cryptocurrency market cap.
