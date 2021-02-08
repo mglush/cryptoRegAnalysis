@@ -1,4 +1,4 @@
-# cryptoRegAnalysis
+# Cryptocurrency Field Statistical Analysis
 
 ## SQLite database containing: 
 * Total cryptocurrency market cap.
