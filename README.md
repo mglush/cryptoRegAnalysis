@@ -20,13 +20,13 @@
 
 ### For every given ticker, we collected the following info:
 1. High, Open, Low, and Close data points for 4 different timeframes:
-  * 1min, 1hour, 1day, 1month.
+ * 1min, 1hour, 1day, 1month.
 2. 8 EMA indicator values.
 3. Standard MACD, MFI 14, RSI 14.
 
 ### Goals:
 1. We use TradingView to export chart data from the above tickers.
-  * Use R to create an SQLite database containing all of the above data.
+ * Use R to create an SQLite database containing all of the above data.
 2. First, we attempt to use R to perform regression analysis, analysis of variance, and a graphical analysis on this data to find patterns and trends in this market. 
 3. Develop a trading strategy based off these findings.
 4. Attempt to optimize the strategy via machine learning and AI.
