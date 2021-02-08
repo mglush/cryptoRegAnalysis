@@ -19,7 +19,8 @@
 * THETA/USDT.
 
 ### For every given ticker, we collected the following info:
-* High, Open, Low, and Close data points for 4 different timeframes.
+* High, Open, Low, and Close data points for 4 different timeframes:
+** 1min, 1hour, 1day, 1month.
 * 8 EMA indicator values.
 * Standard MACD, MFI 14, RSI 14.
 
